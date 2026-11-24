@@ -24,6 +24,7 @@ SSAFY 16기에서 **Python 백엔드와 AI 서비스 개발**을 공부하고 �
 | [**ThRead 인증 · 도서 CRUD**](https://github.com/engmusae/pjt_04) | 커스텀 User 모델 기반 회원가입·로그인·회원정보 수정과 도서 CRUD | Django |
 | [**ThRead 반응형 메인 페이지**](https://github.com/engmusae/pjt_03) | 섹션별 컴포넌트를 반응형으로 구현하고 하나의 메인 페이지로 결합 | HTML, CSS, Bootstrap |
 | [**도서 데이터 수집 · TTS**](https://github.com/engmusae/pjt_02) | 알라딘 Open API로 도서 데이터를 수집·가공하고 소개글을 음성으로 변환 | Python, requests, gTTS |
+| [**도서 데이터 분석**](https://github.com/engmusae/aladin-book-data-analysis) | 알라딘 도서 JSON을 파싱해 출판사·카테고리별로 집계 | Python |
 
 ## 📫 Contact
 
