@@ -12,6 +12,8 @@ SSAFY 16기에서 **Python 백엔드와 AI 서비스 개발**을 공부하고 �
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -19,6 +21,7 @@ SSAFY 16기에서 **Python 백엔드와 AI 서비스 개발**을 공부하고 �
 
 | 프로젝트 | 내용 | 기술 |
 |---|---|---|
+| [**맛집 플래너 (Agent)**](https://github.com/engmusae/restaurant-planner) | 출발지·도착 기한·이동 시간·택시비 조건에 맞는 식당만 근거와 함께 추천. 후보가 없으면 조건을 바꿔 최대 3회 재계획하고, 고른 식당을 식사 계획으로 저장·관리 | LangGraph, FastAPI, LLM, 카카오·기상청 API |
 | [**AI 도서 추천 · 표지 생성**](https://github.com/engmusae/pjt_07) | 취향 기반 도서 추천, 표지 이미지 생성과 분석. Guardrail로 부적절한 요청 차단, 요청 유형 자동 분류 | Django, FastAPI, LLM, 이미지 생성 |
 | [**댓글 증강 시스템**](https://github.com/engmusae/pjt_05) | 토스증권 커뮤니티 댓글을 실시간 크롤링하고 LLM으로 정제·증강 | Django, Selenium, LLM |
 | [**ThRead 인증 · 도서 CRUD**](https://github.com/engmusae/pjt_04) | 커스텀 User 모델 기반 회원가입·로그인·회원정보 수정과 도서 CRUD | Django |
